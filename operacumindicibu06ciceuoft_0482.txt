@@ -1,0 +1,27 @@
+472 IN M. ANTONIUM‚ &a
+
+“ Hirtius, consules, imperatores, alter ambove, aut, fi aberunt,
+“ M. Cornutus, praetor urbanus, supplicationes per dies quin-
+“ quaginta ad omnia pulvinaria constituat. Cumque virtus le-
+“ gionum digna clariffimis imperatoribus extiterit, senatum,
+“ quae s1t antea pollicitus legionibus exercitibusque nostris, ea
+‘³ summo studio, republica recuperata, persoluturum: cumque
+“legio Martia princeps cum hostibus conflixerit, atque ita
+“ cum majore nurnero hostiurn contenderit, ut plurimos cae-
+“ derent, caperent nonnullos : cumque fine ulla retractatione
+“ pro patria vitam profuderint: cumque fimili virtute reliqua-
+“ rum legionum milites pro salute et libertate populi Romani
+“ mortem oppetiverint; senatui placere, ut C. Pansa, A. Hir·
+‘⁶ tius, consules, imperatores, alter ambove, fi his videatur,
+“ iis, qui sanguinem pro vita, libertate, fortunisque populi Ro-
+“ mani, pro urbe, templisque Deorum immortalium, profudis-
+“ sent, monumentum quam ampliffimum locandum, faciendum
+“ curent: quaestores urbis ad eam rem pecuniam dare, attri-
+“ buere, solvere jubeant, ut extet ad memoriam posteritatis
+“ tempiternam‚ ad scelus crudeliffimorum hostium, militum-
+“ que divinam virtutem: utque, quae praemia senatus militibus
+“ ante constituit, ea solvantur eorum, qui hoc bello pro patria
+“ occiderunt, parentibus, liberis, conjugibus, fratribus: eaque
+“ fratribus tribuantur, quae militibus ipfis tribui oporteret, st
+“ illi vixiffent, qui morte vicerunt.''
+
